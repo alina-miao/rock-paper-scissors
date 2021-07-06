@@ -7,3 +7,4 @@ Skills gained:
 
 To-do list: 
   --create game interface
+  --handle cases of incorrect player input (e.g. not rock, paper, or scissors)
